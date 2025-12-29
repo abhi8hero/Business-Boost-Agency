@@ -14,7 +14,7 @@ This project focuses on simplicity, performance, and professional presentation.
 
 
 ## 🚀 Live Demo
-🔗 Live Demo:  https://abhi8hero.github.io/Business-Boost-Agency/
+🔗 Live Demo:  https://abhi8hero.github.io/Business-Boost-Agency/                                                                                                       
 🚧 Currently running locall
 
 
@@ -28,12 +28,12 @@ This project focuses on simplicity, performance, and professional presentation.
 
 
 ## 🛠️ Tech Stack
-- **HTML5** – Structure
-- **CSS3** – Styling & layout
-- **JavaScript** – Interactivity
+ **HTML5** – Structure
+ **CSS3** – Styling & layout
+ **JavaScript** – Interactivity
 
 
 👨‍💻 Author
 Abhishek Ugare
-Email: abhishekugare1289@gmail.com
+Email: abhishekugare1289@gmail.com                                                                                                                                                                               
 Portfolio: ####
