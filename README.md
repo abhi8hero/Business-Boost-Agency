@@ -1,6 +1,6 @@
 # BBDMA
 
-# Business Boost Agency
+# Business Boost Digital marketing Agency
 
 A modern, responsive business website built to help agencies and small businesses showcase their services professionally.
 
@@ -14,8 +14,8 @@ This project focuses on simplicity, performance, and professional presentation.
 
 
 ## 🚀 Live Demo
-🔗 Live Demo:  ####
-🚧 Currently running locally
+🔗 Live Demo:  https://abhi8hero.github.io/Business-Boost-Agency/
+🚧 Currently running locall
 
 
 ## ✨ Features
@@ -34,7 +34,6 @@ This project focuses on simplicity, performance, and professional presentation.
 
 
 👨‍💻 Author
-
 Abhishek Ugare
 Email: abhishekugare1289@gmail.com
 Portfolio: ####
