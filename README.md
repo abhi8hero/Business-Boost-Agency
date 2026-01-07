@@ -44,5 +44,5 @@ This project focuses on simplicity, performance, and professional presentation.
 ## 👨‍💻 Developed By                                                                                        
 Abhishek Ugare                                                                                                                                                                                   
 Email: abhishekugare1289@gmail.com                                
-LinkedIn: www.linkedin.com/in/abhishek-ugare-1021302a9                                                                                                                                   
+LinkedIn: www.linkedin.com/in/abhishek-ugare-a289s85k                                                                                                                                            
 Portfolio: ####
