@@ -20,7 +20,8 @@ This project focuses on simplicity, performance, and professional presentation.
 
 
 ## 📸 Screenshots
-<img width="1763" height="2742" alt="image" src="https://github.com/user-attachments/assets/67e6db41-a24e-49f2-920b-25f457f20f69" />
+<img width="1763" height="2742" alt="image" src="https://github.com/user-attachments/assets/4c9633d9-cc87-49e2-afa7-a16ce0f248d8" />
+
 
 
 
